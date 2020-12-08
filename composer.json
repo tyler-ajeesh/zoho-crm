@@ -18,12 +18,6 @@
         "illuminate/support": "^5.4.0|^6.0",
         "zohocrm/php-sdk-archive": "2.0.6"
     },
-    "repositories":[
-        {
-            "type": "vcs",
-            "url": "git@github.com:barryvanveen/secret.git"
-        }
-    ]
     "autoload": {
         "psr-4": {
             "Zoho\\CRM\\": "src/"
